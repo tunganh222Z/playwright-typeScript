@@ -12,7 +12,7 @@ BMI = cân nặng (kg) / (chiều cao (m) * chiều cao (m))
   - BMI < 18.5: "Gầy"
   - 18.5 <= BMI < 24.9: "Bình thường"
   - 25 <= BMI < 29.9: "Thừa cân"
-  - BMI >= 30: "Béo phì"
+  - BMI >= 30: "Béo phì"..
 
 ## Ví dụ:
 **Input**: 
